@@ -6,8 +6,8 @@
  * Version: 1.0
 */
 
-$ga_id = 'UA-143299014-2';
-$ad_id = 'ca-pub-8905153292353842';
+$ga_id = 'your ga id';
+$ad_id = 'your adsence id';
 
 function add_ga_header() {
 	echo wp_sprintf('<!-- Global site tag (gtag.js) - Google Analytics -->
